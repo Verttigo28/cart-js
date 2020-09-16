@@ -1,8 +1,11 @@
 Cart.js
 =======
 
-Cart.js is a basic javascript cart using JSON with localStorage as
-a persistence mechanism.
+Cart.js is a basic javascript cart using remote storage.
+This project is a fork from @mig-hub.
+This project uses AJAX to communicate via endpoints.
+
+This project will be for my personnal use, so you are free to fork or PR.
 
 Install
 -------
